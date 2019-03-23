@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #6A7087
+}
+
+.list-container {
+    margin: 100px auto;
+    padding: 30px;
+    background-color: salmon;
+    width: 80%;
+    box-shadow: 7px 7px 14px -4px rgba(0,0,0,0.57);
+    border-radius: 5px;
+}
+
+.pros, .cons {
+    background-color: #9BCCC7;
+    width: 47%;
+    border-radius: 5px;
+    padding: 20px 0;
+}
+
+h3, p {
+    text-align: center;
+    color: darkslategrey;
+}
+
+p {
+    background-color: #F7F7F7;
+}
